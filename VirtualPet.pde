@@ -24,9 +24,9 @@ void setup(){
    ellipse(200,200,50,50);//left eye
    fill(#c8deec);
    rect(165,160,165,20);//left eye hair
-   fill(#FF1C1C);
-   ellipse(200,200,5,5); //eyeball left
    fill(#0203e2);
+   ellipse(200,200,5,5); //eyeball left
+   fill(#FF1C1C);
    ellipse(300,200,5,5);//eyeball right
    text("Robota",145,350);
  }
